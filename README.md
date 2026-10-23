@@ -1,4 +1,4 @@
-# Film Making Algorithm
+# Filmmaking Procces
 
 **Audience:** First-year film students who are new to the filmmaking process.
 **Purpose:** To introduce the five basic stages every film goes through, from idea to release, so you can see how the pieces fit together before studying each stage in depth.
